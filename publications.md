@@ -6,6 +6,7 @@ permalink: /publications/
 <a href="https://scholar.google.com/citations?user=cM6n59UAAAAJ&hl=en" target="_blank">Google Scholar Profile</a>
 
 #### Peer-reviewed Conference Papers and Journals
+#### See google scholar profile for details
 <br>
 
 - **An Empirical Study on Algorithmic Bias**, `Sen S.`, Dasgupta D. and Gupta K. D., 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC), Madrid, Spain, 2020, pp. 1189-1194, 
