@@ -1,0 +1,67 @@
+title: Sajib Sen
+description: Stuff that worth sharing.
+author: Sajib Sen
+email: sajibsen.cs@gmail.com
+phone: (901) 265-9459
+github: https://github.com/Sen2k9
+about: I am a Software Engineer. I love problem solving and writing backend technologies.
+disqus_shortname: optimize_solution
+#google_analytics: UA-31048387-6
+avatar_url: /static/img/me.jpg
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+  #     - icon: fa-facebook
+  #       link: "https://www.facebook.com/tjamadar"
+  #     - icon: fa-twitter
+  #       link: "https://twitter.com/tmjam3011"
+  - icon: fa-linkedin
+    link: "https://www.linkedin.com/in/sajib-sen-cs/"
+  # - icon: fa-stack-exchange
+  #   link: "#"
+  - icon: fa-github
+    link: "https://github.com/sen2k9"
+
+share:
+  linkedin_id: in/sajib-sen-cs/
+  #twitter_username: tmjam3011
+  # fb_appid: 1749788565247320
+
+urls:
+  - text: About Me
+    url: /about/
+  - text: Projects
+    url: /projects/
+  - text: Education
+    url: /educations/
+  - text: Publications
+    url: /publications/
+  - text: Blogs
+    url: /blogs/
+  - text: News
+    url: /news/
+
+  # - text: XML Feed
+  #   url: /feed.xml
+# url: "http://localhost:4000"
+url: "https://sen2k9.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/blogs/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all

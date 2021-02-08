@@ -1,0 +1,69 @@
+[{
+        "slug": "Hackathon Organizer",
+        "name": "Hackathon Organizer",
+        "image": "hackathon_organizer.jpg",
+        "url": "https://github.com/Sen2k9/Hackathon-Organizer-Ruby-on-Rails-",
+        "date": "April 2018",
+        "tags": ["Ruby", "Rails", "HTML", "CSS", "Bootstrap", "JavaScript"]
+    },
+    {
+        "name": "Premium Fitness",
+        "image": "premium_features.jpg",
+        "date": "June 2019",
+        "url": "https://github.com/Sen2k9/Sen-s-Fitness-A-Paid-Membership-Website",
+        "description": "A paid membership website that is able to share contents with it’s user and collect payments.",
+        "tags": ["Python", "Django", "HTML", "CSS", "Bootstrap", "Javascript"]
+    },
+    {
+        "name": "Rent-A-Car",
+        "image": "cholo.jpg",
+        "url": "https://github.com/Sen2k9/Cholo-A-Simplified-Car-Rental-Application",
+        "date": "June 2019",
+        "description": "Cholo is a taxicab application that let you choose ride, add your vehicle to provide ride, and add yourself also as a driver from anywhere in the world.",
+        "tags": ["Python", "Django", "JavaScript", "HTML", "CSS", "Bootstrap", "SQL"]
+    },
+    {
+        "name": "AI Layered SDN",
+        "image": "SDN.jpg",
+        "date": "April 2018",
+        "url": "https://link.springer.com/chapter/10.1007/978-981-13-7564-4_5",
+        "tags": ["Python", "MNet", "Machine Learning"]
+    },
+    {
+        "name": "Smart Micro-Grid",
+        "image": "ga.jpg",
+        "date": "Dec 2017",
+        "url": "https://aircconline.com/csit/abstract/v9n14/csit91401.html",
+        "tags": ["Java", "Machine Learning"]
+    },
+
+
+    {
+        "name": "Fake Review Check",
+        "image": "reviewer_verification_system.jpg",
+        "url": "https://github.com/Silicon-Orchard/fake_product_review_check",
+        "date": "Feb 2020",
+        "tags": [
+
+            "Python",
+            "NLTK",
+            "Vader Sentiment Analysis",
+            "Django",
+            "Machine Learning"
+
+        ]
+    },
+
+    {
+        "name": "Big Data File Converter",
+        "image": "json_to_avro.jpg",
+        "url": "https://github.com/Silicon-Orchard/Parquet_Avro_Bigdata_file_converter",
+        "date": "Feb 2020",
+        "tags": [
+            "Python",
+            "PySpark",
+            "Django"
+        ]
+    }
+
+]
