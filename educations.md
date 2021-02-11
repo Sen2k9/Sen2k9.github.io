@@ -10,8 +10,8 @@ permalink: /educations/
 <div class="container">
   <div class="about">
 
-<h4 style="color:  #0c5aad ;"> The University of Memphis </h4>
-<h4 style="color: #0c5aad ;"> Master of Science-MS, Computer Science </h4>
+<h4 style="color:  #0c5aad ;"> Premier University, Chattogram,Bangladesh </h4>
+<h4 style="color: #0c5aad ;"> Master of Science-MBA, Masters of Business Administration </h4>
 <h5> Activities and Societies </h5>
 <ul>
   <li>Graduate Research Assistant, Center For Information Assurance Lab (CFIA), UofM.</li>
@@ -22,8 +22,8 @@ permalink: /educations/
   <li>Member, Association for Computing Machinery (ACM) Student Chapter, UofM.</li>
 </ul>
 
-<h4 style="color:#0cad47;"> Khulna University of Engineering and Technology </h4>
-<h4 style="color:#0cad47;"> Bachelor of Science-B.Sc., Electrical and Electronics Engineering </h4>
+<h4 style="color:#0cad47;"> Independent University Bangladesh </h4>
+<h4 style="color:#0cad47;"> Bachelor of Science-B.Sc., Electronics and Communications Engineering </h4>
 <h5> Activities and Societies </h5>
 <ul>
   <li>Member, KUET Electronics Club (Kuetronics).</li>
