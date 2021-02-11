@@ -1,9 +1,9 @@
 title: Rajib Sen
-description: Stuff that worth sharing.
-author: Sajib Sen
-email: sajibsen.cs@gmail.com
-phone: (901) 265-9459
-github: https://github.com/Sen2k9
+description: The Quicker Picker Upper.
+author: Rajib Sen
+email: rajibsen579@gmail.com
+phone: (+880)1795650845
+github: https://github.com/rajib579
 about: I am a Software Engineer. I love problem solving and writing backend technologies.
 disqus_shortname: optimize_solution
 #google_analytics: UA-31048387-6
@@ -19,7 +19,7 @@ collections:
 
 social:
   #     - icon: fa-facebook
-  #       link: "https://www.facebook.com/tjamadar"
+  #       link: "https://www.facebook.com/rajib.sen.165"
   #     - icon: fa-twitter
   #       link: "https://twitter.com/tmjam3011"
   - icon: fa-linkedin
@@ -27,7 +27,7 @@ social:
   # - icon: fa-stack-exchange
   #   link: "#"
   - icon: fa-github
-    link: "https://github.com/sen2k9"
+    link: "https://github.com/rajib579"
 
 share:
   linkedin_id: in/sajib-sen-cs/
