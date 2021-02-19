@@ -12,7 +12,7 @@ input#js-search__input {
 }
 .search__results {
   list-style: none;
-  padding: 0;
+  padding: 1;
   overflow-x: hidden;
   height: calc(100% - 110px);
   transition: 0.2s ease;
