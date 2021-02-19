@@ -11,7 +11,7 @@ Learn more about my alma maters <a href="{{ site.url }}/educations/">here</a>
 
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
-GitHub Profile : <a href="https://github.com/Sen2k9" target="_blank">github.com/Sen2k9</a>
+GitHub Profile : <a href="https://github.com/rajib579" target="_blank">github.com/Sen2k9</a>
 
 LinkedIn Profile : <a href="https://www.linkedin.com/in/sajib-sen-cs/" target="_blank">linkedin.com/in/sajib-sen-cs/</a>
 
