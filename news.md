@@ -4,6 +4,27 @@ title: News
 permalink: /news/
 ---
 
+**[12-05-2020]** "Algorithm Bias" cited on the Wikipedia page as a suggested Explainable AI method to detect bias.
+[link](https://www.linkedin.com/posts/sajib-sen-cs_machinelearning-artificialintelligence-explainableai-activity-6741373293388951552-xnzK)
+<br>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6741373292667539456" height="751" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<br>
+
+
+**[05-05-2020]** "One of mine easy-to-reproduce-simulation and industry-oriented publications reached 1000 reads.
+[link](https://www.linkedin.com/posts/sajib-sen-cs_sdn-machinelearning-cybersecurity-activity-6739162595497926656-XLwD)
+<br>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6739162594889756672" height="674" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<br>
+
+
+**[10-29-2020]** "COVID-19 Symptoms Detection Based on NasNetMobile with Explainable AI Using Various Imaging Modalities"
+[link](https://www.linkedin.com/posts/sajib-sen-cs_covid-19-symptoms-detection-based-on-nasnetmobile-activity-6728369932691632128-5SK5)
+<br>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6728369932150554624" height="582" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<br>
+
+
 **[10-15-2020]** As a part of the journey to work for the slogan AI for Good, my research article now available at IEEEXplore. [link](https://www.linkedin.com/posts/sajib-sen-cs_artificialintelligence-machinelearning-ai-activity-6722700116513304576-npBt)
 <br>
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6722700115875774464" allowfullscreen="" title="Embedded post" width="504" height="415" frameborder="0"></iframe>
