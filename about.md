@@ -25,7 +25,7 @@ Look at my Bootstrapped Resume: <a href="https://sen2k9.github.io/resume/" targe
 
 <br>
 `Software Engineer` *June 2020 - Present*<br>
-<a href="https://us.kuehne-nagel.com" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company, Memphis, TN</a>
+<a href="https://us.kuehne-nagel.com" target="_blank">Kuehne & Nagel, USA</a>
 
 - Writing Django solutions for Electronic Data Interchange (EDI) communications among carrier, warehouse, and enterprise.
 - Ensuring third-party logistic (3PL) services by successfully importing order, tracking order, and invoicing to customer.
