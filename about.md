@@ -27,39 +27,41 @@ Look at my Bootstrapped Resume: <a href="https://sen2k9.github.io/resume/" targe
 `Software Engineer` *June 2020 - Present*<br>
 <a href="https://us.kuehne-nagel.com" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company, Memphis, TN</a>
 
-
-- Writing solutions for Electronic Data Interchange(EDI) service, communications and tracking with MercuryGate TMS.
-- Enhancing existing third-party logistics service to accommodate air, sea and rail carriers.
-- Redesigning backend for Kuehne & Nagel’s pharmaceutical customers to meet very specific requirements.
-- Troubleshooting and resolving customer-reported or operation-team requested business-critical IT issues.
-- Collaborating daily with stakeholders, team-lead, and business analysts for planning, designing and reporting.
-- Improved invoicing speed by two weeks by segmenting and automating invoices over customer’s sales region.
-- Leveraging knowledge in Web Development, Python, Django, Git, Linux, Database, Kibana, Redis, XML.
+- Writing Django solutions for Electronic Data Interchange (EDI) communications among carrier, warehouse, and enterprise.
+- Ensuring third-party logistic (3PL) services by successfully importing order, tracking order, and invoicing to customer.
+- Developing backend features on KN-Pharma project, assessed by end-to-end customers visibility.
+- Integrating Road with Air and Sea freight, calibrated by dynamic rate and order processing.
+- Providing level 3 IT support, measured by customer satisfaction and resolved issues per week.
+- Developing exclusive portal for operation team, measured by business growth and client satisfaction.
+- Collaborating daily with stakeholders, team-lead, and project owners for planning and reporting.
+- Submitting deliverable on time, meeting local and global customers’ needs and organizational targets.
+- Leveraging knowledge in Freight Logistics, Python, Django, Linux, MySQL, Kibana, X12.
 
 <br>
 `Software Engineering`, `Intern` *September 2019 - December 2019*<br>
 <a href="https://us.kuehne-nagel.com" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company, Memphis, TN</a>
 
-- Increased 10% test coverage by writing regression tests and migrated company’s legacy codebase to Python3.
-- Code refactored and solved immediate issues of EDI communications, extracts, file-parsing, and invoicing.
-- Leveraged knowledge in Web Development, unit test, Python, Django, Git, Linux, Database.
+- Increased 10% test coverage by writing unit and integration test, measured by successful assertion.
+- Assisted in codebase migration to Python3, confirmed by successful CI integration.
+- Enhanced portal for storing document uploaded by carriers, confirmed by successful client usage.
+- Leveraged knowledge in unit test, Python, Django, Git, Linux, MySQL.
 
 <br>                              
 `System Analyst`, `Intern` *September 2019 - December 2019*<br>
 <a href="http://umrfventures.com/" target="_blank">UMRF Ventures Inc., Memphis, TN</a>
 
 
-- Analyzed big datasets and presented findings through Splunk’s dashboards, visualizations, and alerts.
-- Improved data health of FedEx InfoSec by 50% comparing with Splunk’s CIM, and reporting vulnerability.
-- Leveraged knowledge in System log analysis, Search and Discovery, Information Security, Splunk.
+- Analyzed big datasets, measured by findings through Splunk’s dashboards, visualizations, and alerts.
+- Improved data health of FedEx InfoSec by 25% comparing with Splunk’s CIM.
+- Leveraged knowledge in System log analysis, Search and Discovery, InformationSecurity, Splunk.
 
 <br>
 `Research Assistant` *August 2017- April 2020*<br>
 <a href="https://www.memphis.edu/" target="_blank">The University of Memphis, Memphis, TN</a>
 
-- Surveyed and analyzed unwanted algorithmic biases for prediction and optimization using explainable AI.
-- Increased user participation in two FEMA Cyber Emergency Projects by 20% by working as lead developer.
-- Leveraged knowledge in Research and Development, Information Security, Artificial Intelligence.
+- Surveyed and analyzed algorithmic biases for prediction and optimization using explainable AI.
+- Developed and improved FEMA Training Projects, measured by 20% increase in user participation.
+- Leveraged knowledge in Research and Development, Machine-Learning, Leadership.
 
 <br>
 `Teaching Assistant` *Spring 2018*<br>
