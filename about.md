@@ -27,40 +27,43 @@ Look at my Bootstrapped Resume: <a href="https://sen2k9.github.io/resume/" targe
 `Software Engineer` *June 2020 - Present*<br>
 <a href="https://us.kuehne-nagel.com" target="_blank">Kuehne & Nagel, USA</a>
 
-- Writing Django solutions for Electronic Data Interchange (EDI) communications among carrier, warehouse, and enterprise.
-- Ensuring third-party logistic (3PL) services by successfully importing order, tracking order, and invoicing to customer.
-- Developing backend features on KN-Pharma project, assessed by end-to-end customers visibility.
-- Integrating Road with Air and Sea freight, calibrated by dynamic rate and order processing.
-- Providing level 3 IT support, measured by customer satisfaction and resolved issues per week.
-- Developing exclusive portal for operation team, measured by business growth and client satisfaction.
-- Collaborating daily with stakeholders, team-lead, and project owners for planning and reporting.
-- Submitting deliverable on time, meeting local and global customers’ needs and organizational targets.
-- Leveraging knowledge in Freight Logistics, Python, Django, Linux, MySQL, Kibana, X12.
+- Writing Django solutions for EDI communications among carrier, warehouse, and enterprise.
+- Enhanced cross-product visibility in organizational eco-system and removed dependency on vendor
+Transportation Management System, which reduced two months integration time per customer.
+- Advanced codebase in Django for ELD (Electronic Logging Device) services for truck carriers. Achieved real-time Track and Trace services with 100% accuracy per shipment.
+- Established infrastructure for ‘KN PharmaChain’ in the US and migrated 37 pharmaceutical cus-
+tomers by decommissioning from vendor system. Reduced an estimated cost of $157k annually.
+- Merged backend and achieved last-mile services for Overland customers from Europe.
+- Standardized API workflow to launch ‘eTrucknow’ in the US, a flagship product for Overland cus-
+tomers to plan, book and track. Achieved 10% increase in global shipment volume per month.
+- Defined invoice automation over customers’ sales region, which accelerated invoicing by two weeks.
+- Working as one of the key technical communicators between local operations and global tech team.
+- Provided IT support with detailed resolution and maximized test, gained reduced support issues.
+- Expedited deliverables on time with quality and achieved organizational targets by completing high-
+demand projects ‘KN PharmaChain’ and ‘eTrucknow’.
+- Leveraging knowledge in Freight Logistics, Python, Django, Linux, PHP, Docker, MySQL, X12.
 
 <br>
 `Software Engineering`, `Intern` *September 2019 - December 2019*<br>
 <a href="https://us.kuehne-nagel.com" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company, Memphis, TN</a>
 
-- Increased 10% test coverage by writing unit and integration test, measured by successful assertion.
-- Assisted in codebase migration to Python3, confirmed by successful CI integration.
-- Enhanced portal for storing document uploaded by carriers, confirmed by successful client usage.
+- Wrote unit and integration test and improved 10% test coverage, measured by successful assertion.
+- Performed automated Python2to3 code translation and achieved full code base migration to Python3.
 - Leveraged knowledge in unit test, Python, Django, Git, Linux, MySQL.
 
 <br>                              
 `System Analyst`, `Intern` *September 2019 - December 2019*<br>
 <a href="http://umrfventures.com/" target="_blank">UMRF Ventures Inc., Memphis, TN</a>
 
-
-- Analyzed big datasets, measured by findings through Splunk’s dashboards, visualizations, and alerts.
-- Improved data health of FedEx InfoSec by 25% comparing with Splunk’s CIM.
-- Leveraged knowledge in System log analysis, Search and Discovery, InformationSecurity, Splunk.
+- Performed descriptive analysis of the client’s large datasets and gained helpful insight into their system’s venerability. Presented findings to the client via Splunk’s dashboards and visualizations.
+- Leveraged knowledge in System log analysis, Search and Discovery, Splunk.
 
 <br>
 `Research Assistant` *August 2017- April 2020*<br>
 <a href="https://www.memphis.edu/" target="_blank">The University of Memphis, Memphis, TN</a>
 
-- Surveyed and analyzed algorithmic biases for prediction and optimization using explainable AI.
-- Developed and improved FEMA Training Projects, measured by 20% increase in user participation.
+- Surveyed and analyzed algorithmic bias for optimization problems, published in <a href="https://ieeexplore.ieee.org/document/9202789" target="_blank">IEEE</a> conference.
+- Analyzed network data for security flaws with ML algorithm for SDN, ransomware detection.
 - Leveraged knowledge in Research and Development, Machine-Learning, Leadership.
 
 <br>
