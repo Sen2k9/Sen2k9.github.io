@@ -39,22 +39,6 @@ Look at my Bootstrapped Resume: <a href="https://sen2k9.github.io/resume/" targe
 - Onboarded new software engineers and interns to the team.
 - Leveraging knowledge in Freight Logistics, Python, Django, Linux, MySQL, Docker, EDI, X12.
 
-- Writing Django solutions for EDI communications among carrier, warehouse, and enterprise.
-- Enhanced cross-product visibility in organizational eco-system and removed dependency on vendor
-Transportation Management System, which reduced two months integration time per customer.
-- Advanced codebase in Django for ELD (Electronic Logging Device) services for truck carriers. Achieved real-time Track and Trace services with 100% accuracy per shipment.
-- Established infrastructure for ‘KN PharmaChain’ in the US and migrated 37 pharmaceutical cus-
-tomers by decommissioning from vendor system. Reduced an estimated cost of $157k annually.
-- Merged backend and achieved last-mile services for Overland customers from Europe.
-- Standardized API workflow to launch ‘eTrucknow’ in the US, a flagship product for Overland cus-
-tomers to plan, book and track. Achieved 10% increase in global shipment volume per month.
-- Defined invoice automation over customers’ sales region, which accelerated invoicing by two weeks.
-- Working as one of the key technical communicators between local operations and global tech team.
-- Provided IT support with detailed resolution and maximized test, gained reduced support issues.
-- Expedited deliverables on time with quality and achieved organizational targets by completing high-
-demand projects ‘KN PharmaChain’ and ‘eTrucknow’.
-- Leveraging knowledge in Freight Logistics, Python, Django, Linux, PHP, Docker, MySQL, X12.
-
 <br>
 `Software Engineering`, `Intern` *September 2019 - December 2019*<br>
 <a href="https://us.kuehne-nagel.com" target="_blank">ReTrans, Inc., A Kuehne & Nagel Company, Memphis, TN</a>
