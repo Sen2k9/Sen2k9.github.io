@@ -28,6 +28,18 @@ Look at my Bootstrapped Resume: <a href="https://sen2k9.github.io/resume/" targe
 <a href="https://us.kuehne-nagel.com" target="_blank">Kuehne & Nagel, USA</a>
 
 - Writing Django solutions for EDI communications among carrier, warehouse, and enterprise.
+- Fully developed code infrastructure for *KN PharmaChain* in local business and upgraded existing functionality to support additional operation and data processing.
+- Worked on cross-language(Python - PHP) API development for client-side (local business, agents) and server-side to launch *eTrucknow* in North America, the flagship product of the global Road Logistics organization.
+- Developed a production-ready information map between local and global master data to enhance cross-product and cross-border visibility in the organizational eco-system.
+- Improved legacy invoicing process by working with Operations and Data Science team.
+- Fully supporting and reviewing additional development for legacy logistic system.
+- Providing production support on-demand for critical issues and following up with the Operation team and clients to maintain maximum quality.
+- Working with Data Science team to streamline data warehousing by integrating Redis, Oracle DB, Django, AWS(EC2, S3) and Docker to create a microservice-based job processing.
+- Communicating with customers and stack-holders across the global Road Logistics organization during product development.
+- Onboarded new software engineers and interns to the team.
+- Leveraging knowledge in Freight Logistics, Python, Django, Linux, MySQL, Docker, EDI, X12.
+
+- Writing Django solutions for EDI communications among carrier, warehouse, and enterprise.
 - Enhanced cross-product visibility in organizational eco-system and removed dependency on vendor
 Transportation Management System, which reduced two months integration time per customer.
 - Advanced codebase in Django for ELD (Electronic Logging Device) services for truck carriers. Achieved real-time Track and Trace services with 100% accuracy per shipment.
