@@ -3,9 +3,20 @@ layout: page
 title: About
 permalink: /about/
 ---
-<p>
-I am a computer science enthusiast with a passion for Software Engineering, Machine Learning, and Data Science. Proficient in Python and Linux environment. I consider myself a full-stack software developer currently focusing on Python, Django, and JavaScript. I like competitive programming and love to solve problems with efficient solutions.
-</p>
+`About Me`:
+ - Post-Graduate in Computer Science.
+ - Full-stack Web Developer with 2+ years of non-internship industry experience. 
+ - Proficient in Python and Linux environments.
+ - Passionate about Software Engineering and Data Science. 
+ - Developing skills in cloud-based platforms such as AWS.
+
+`Top Skills` : 
+ - Backend Development.
+ - Automation & Python Scripting.
+ - Designing Hybrid Software Application & Troubleshooting.
+ - Domain knowledge of Supply Chain & Freight Logistics.
+ - Problem Solver & Strong Communicator.
+
 
 Learn more about my alma maters <a href="{{ site.url }}/educations/">here</a>
 
