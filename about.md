@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 `About Me`:
- - Post-Graduate in Computer Science.
+ - Post-Graduate in Computer Science (CS) and Undergraduate in Electrical and Electronic Engineering (EEE).
  - Full-stack Web Developer with 2+ years of non-internship industry experience. 
  - Proficient in Python and Linux environments.
  - Passionate about Software Engineering and Data Science. 
