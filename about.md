@@ -44,7 +44,7 @@ Look at my Bootstrapped Resume: <a href="https://sen2k9.github.io/resume/" targe
 `Software Engineer` *June 2020 - August 2022*<br>
 <a href="https://us.kuehne-nagel.com" target="_blank">Kuehne & Nagel, Memphis, TN</a>
 
-- Writing Django solutions for EDI communications among carrier, warehouse, and enterprise.
+- Wrote Django solutions for EDI communications among carrier, warehouse, and enterprise.
 - Fully developed code infrastructure for *KN PharmaChain* in local business and upgraded existing functionality to support additional operation and data processing.
 - Worked on cross-language(Python - PHP) API development for client-side (local business, agents) and server-side to launch *eTrucknow* in North America, the flagship product of the global Road Logistics organization.
 - Developed a production-ready information map between local and global master data to enhance cross-product and cross-border visibility in the organizational eco-system.
