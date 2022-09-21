@@ -8,7 +8,7 @@ permalink: /about/
  - Full-stack Web Developer with 2+ years of non-internship industry experience. 
  - Proficient in Python and Linux environments.
  - Passionate about Software Engineering and Data Science. 
- - Developing skills in cloud-based platforms such as AWS.
+ - Developing skills in Electronic Design Automation (EDA) Tools.
 
 `Top Skills` : 
  - Backend Development.
@@ -35,8 +35,12 @@ Look at my Bootstrapped Resume: <a href="https://sen2k9.github.io/resume/" targe
 # Work Experiences
 
 <br>
-`Software Engineer` *June 2020 - Present*<br>
-<a href="https://us.kuehne-nagel.com" target="_blank">Kuehne & Nagel, USA</a>
+`Software Engineer` *August 2022 - Present<br>
+<a href="https://www.intel.com/content/www/us/en/homepage.html" target="_blank">Intel Corporation, Hillsboro, OR</a>
+
+<br>
+`Software Engineer` *June 2020 - August 2022*<br>
+<a href="https://us.kuehne-nagel.com" target="_blank">Kuehne & Nagel, Memphis, TN</a>
 
 - Writing Django solutions for EDI communications among carrier, warehouse, and enterprise.
 - Fully developed code infrastructure for *KN PharmaChain* in local business and upgraded existing functionality to support additional operation and data processing.
