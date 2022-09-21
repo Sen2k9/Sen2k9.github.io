@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 ---
 
+**[12-05-2020]** Joined at Intel as Software Engineer.
+[link](https://www.linkedin.com/feed/update/urn:li:activity:6967241955009343488/)
+
+
 **[12-05-2020]** "Algorithm Bias" cited on the Wikipedia page as a suggested Explainable AI method to detect bias.
 [link](https://www.linkedin.com/posts/sajib-sen-cs_machinelearning-artificialintelligence-explainableai-activity-6741373293388951552-xnzK)
 <br>
