@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 ---
 
-**[08-15-2020]** Joined at Intel as Software Engineer.
+**[08-15-2022]** Joined at Intel as Software Engineer.
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6967241955009343488/" target="_blank"> link </a>
 
 
