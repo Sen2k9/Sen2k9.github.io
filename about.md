@@ -35,10 +35,10 @@ Look at my Bootstrapped Resume: <a href="https://sen2k9.github.io/resume/" targe
 # Work Experiences
 
 <br>
-`Software Engineer` *August 2022 - Present<br>
+`Software Engineer` *August 2022 - Present*<br>
 <a href="https://www.intel.com/content/www/us/en/homepage.html" target="_blank">Intel Corporation, Hillsboro, OR</a>
 
-- Working for Intel's Corporate Quality Network (CQN).
+- Working for Intel's Corporate Quality Network (CQN) organization.
 
 <br>
 `Software Engineer` *June 2020 - August 2022*<br>
