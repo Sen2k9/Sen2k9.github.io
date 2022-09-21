@@ -38,6 +38,8 @@ Look at my Bootstrapped Resume: <a href="https://sen2k9.github.io/resume/" targe
 `Software Engineer` *August 2022 - Present<br>
 <a href="https://www.intel.com/content/www/us/en/homepage.html" target="_blank">Intel Corporation, Hillsboro, OR</a>
 
+- Working for Intel's Corporate Quality Network (CQN).
+
 <br>
 `Software Engineer` *June 2020 - August 2022*<br>
 <a href="https://us.kuehne-nagel.com" target="_blank">Kuehne & Nagel, Memphis, TN</a>
