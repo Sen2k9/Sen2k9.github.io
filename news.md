@@ -5,7 +5,7 @@ permalink: /news/
 ---
 
 **[08-15-2020]** Joined at Intel as Software Engineer.
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:6967241955009343488/", target="_blank"> link </a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6967241955009343488/" target="_blank"> link </a>
 
 
 **[12-05-2020]** "Algorithm Bias" cited on the Wikipedia page as a suggested Explainable AI method to detect bias.
