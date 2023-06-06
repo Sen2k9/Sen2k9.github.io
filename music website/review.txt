@@ -1,0 +1,171 @@
+<li class="songItem">
+                        <div class="img_play">
+                            <img src="img/2.jpg" alt="">
+                            <i class="bi playlistPlay bi-play-circle-fill" id="2"></i> 
+                        </div>                        
+                        <h5>On My Way <br> 
+                            <div class="subtitle">Alan Walker</div>
+                        </h5>
+                        
+                    </li> 
+
+                    <li class="songItem">
+                        <div class="img_play">
+                            <img src="img/2.jpg" alt="">
+                            <i class="bi playlistPlay bi-play-circle-fill" id="2"></i> 
+                        </div>                        
+                        <h5>On My Way <br> 
+                            <div class="subtitle">Alan Walker</div>
+                        </h5>
+                        
+                    </li> 
+
+                    <li class="songItem">
+                        <div class="img_play">
+                            <img src="img/2.jpg" alt="">
+                            <i class="bi playlistPlay bi-play-circle-fill" id="2"></i> 
+                        </div>                        
+                        <h5>On My Way <br> 
+                            <div class="subtitle">Alan Walker</div>
+                        </h5>
+                        
+                    </li> 
+
+                    <li class="songItem">
+                        <div class="img_play">
+                            <img src="img/2.jpg" alt="">
+                            <i class="bi playlistPlay bi-play-circle-fill" id="2"></i> 
+                        </div>                        
+                        <h5>On My Way <br> 
+                            <div class="subtitle">Alan Walker</div>
+                        </h5>
+                        
+                    </li> 
+
+                    <li class="songItem">
+                        <div class="img_play">
+                            <img src="img/2.jpg" alt="">
+                            <i class="bi playlistPlay bi-play-circle-fill" id="2"></i> 
+                        </div>                        
+                        <h5>On My Way <br> 
+                            <div class="subtitle">Alan Walker</div>
+                        </h5>
+                        
+                    </li> 
+
+                    <li class="songItem">
+                        <div class="img_play">
+                            <img src="img/2.jpg" alt="">
+                            <i class="bi playlistPlay bi-play-circle-fill" id="2"></i> 
+                        </div>                        
+                        <h5>On My Way <br> 
+                            <div class="subtitle">Alan Walker</div>
+                        </h5>
+                        
+                    </li> 
+
+                    <li class="songItem">
+                        <div class="img_play">
+                            <img src="img/2.jpg" alt="">
+                            <i class="bi playlistPlay bi-play-circle-fill" id="2"></i> 
+                        </div>                        
+                        <h5>On My Way <br> 
+                            <div class="subtitle">Alan Walker</div>
+                        </h5>
+                        
+                    </li> 
+
+                    <li class="songItem">
+                        <div class="img_play">
+                            <img src="img/2.jpg" alt="">
+                            <i class="bi playlistPlay bi-play-circle-fill" id="2"></i> 
+                        </div>                        
+                        <h5>On My Way <br> 
+                            <div class="subtitle">Alan Walker</div>
+                        </h5>
+                        
+                    </li> 
+
+                    <li class="songItem">
+                        <div class="img_play">
+                            <img src="img/2.jpg" alt="">
+                            <i class="bi playlistPlay bi-play-circle-fill" id="2"></i> 
+                        </div>                        
+                        <h5>On My Way <br> 
+                            <div class="subtitle">Alan Walker</div>
+                        </h5>
+                        
+                    </li> 
+
+
+
+
+
+
+copy
+
+  const music = new Audio('vande.mp3');
+
+
+//Create Array
+
+const songs = [
+    {
+     id:'1',
+     songName: ' On My Way <br>  <div class="subtitle">Alan Walker</div>',
+     poster: "img/1,jpg"
+    },
+
+    {
+        id:'2',
+        songName: ' Alan Walker.Fade <br>  <div class="subtitle">Alan Walker</div>',
+        poster: "img/2,jpg"
+    },
+
+    {
+        id:'3',
+        songName: ' On My Way <br>  <div class="subtitle">Alan Walker</div>',
+        poster: "img/3,jpg"
+       },
+
+       {
+        id:'4',
+        songName: ' On My Way <br>  <div class="subtitle">Alan Walker</div>',
+        poster: "img/4,jpg"
+       }
+]
+
+Array.from(document.getElementsByClassName('songItem')).forEach((element, i)=>{
+    element.getElementsByTagName('img')[0].src = songs[i].poster;
+    element.getElementsByTagName('h5')[0].innerHTML = songs[i].songName;
+})
+
+
+
+
+
+
+let pop_song_left = document.getElementById('pop_song_left');
+let pop_song_right = document.getElementById('pop_song_right');
+let pop_song = document.getElementsByClassName('pop_song')[0];
+
+pop_song_right.addEventListener('click', ()=>{
+    pop_song.scrollLeft += 330;
+});
+
+pop_song_left.addEventListener('click', ()=>{
+    pop_song.scrollLeft += 330;
+});
+
+
+let pop_art_left = document.getElementById('pop_art_left');
+let pop_art_right = document.getElementById('pop_art_right');
+let item = document.getElementsByClassName('item')[0];
+
+pop_art_right.addEventListener('click', ()=>{
+    item.scrollLeft += 330;
+});
+
+pop_art_left.addEventListener('click', ()=>{
+    item.scrollLeft += 330;
+});
