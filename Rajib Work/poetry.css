@@ -1,0 +1,341 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+div.poetry_page{
+  position: relative;
+  background-color: #080413;
+  width: 100%;
+  height: 100%;
+}
+#container{
+    position: relative;
+    display: grid;
+    grid-template-columns: auto;
+    /* background-color: aqua; */
+}
+
+
+
+.nav-icons{
+  position: relative;
+  margin-top: 0;
+  padding-bottom: 3%;
+  /* background-color: aqua; */
+  width: 95rem;
+  height: 0.2rem;
+
+}
+
+.nav-icons .flex-container {
+display: flex;
+align-items: stretch;
+/* background-color: #f1f1f1; */
+}
+
+.nav-icons .flex-container > div {
+/* background-color: DodgerBlue; */
+color: #a88829;
+margin: 0;
+text-align: center;
+line-height: 40px;
+font-size: 20px;
+
+}
+.nav-icons .flex-container div a:hover{
+content: "";
+background-color: white;
+}
+
+
+#container #poetry_navbar{
+    position: relative;
+    margin-top: 10rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    /* background-color: green; */
+    width: 80rem;
+    margin-left: 18rem;
+}
+
+ #poetry_navbar li a{
+    position: relative;
+    margin-left: 2rem;
+    font-size: 14px;
+    list-style: none;
+    text-decoration: none;
+}
+
+#poetry_navbar li{
+    position: relative;
+    list-style: none;
+}
+
+#poetry_navbar li:hover{
+    background-color: #a88829;
+}
+
+#poetry_navbar li.a :hover{
+    background-color: #a88829;
+}
+
+
+#poetry_navbar li.active{
+    background-color: rgb(250, 6, 6);
+    margin-left: 30px;
+    text-align: center;
+    padding-right: 12px;
+}
+
+#poetry_navbar a{
+    position: relative;
+    margin-left: 27rem;
+    margin-top: 5px;
+    margin-right: 7px;
+}
+ #poetry_navbar button{
+    position: relative;
+    margin-left: 0rem;
+    width: 120px;
+    background-color: #aa8824;
+}
+
+
+
+
+ #poetry_block1{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: 59rem;
+    height: 21.4rem;
+
+    margin-top: 7rem;
+    margin-left: 20rem;
+    /* background-color: aqua; */
+}
+
+ #poetry_block1 #feedback1{
+    position: relative;
+    background-color: #e3d3c1;
+    width: 31rem;
+    margin-left: 0rem;
+    height: 21.4rem;
+    display: inline-block;
+    list-style: none;
+    text-decoration: none;
+}
+
+ #poetry_block1 #feedback1 p{
+    position: relative;
+    margin-left: 2.6rem;
+    margin-top: -2.3rem;
+}
+
+#container #poetry_block1 #feedback1 img{
+    position: relative;
+    margin-left: 0.3rem;
+}
+#container #poetry_block1 #feedback1 li i  {
+    position: relative;
+    float: right;
+    margin-top: -2rem;
+    margin-right: 19rem;
+}
+
+#container #poetry_block1 #feedback1 .highlight{
+    position: relative;
+    display: block;
+    /* background-color: darkgreen; */
+    width: 30rem;
+    height: 5rem;
+    
+}
+
+#feedback1 .highlight p{
+    position: relative;;
+}
+
+#footer1 hr{
+    position: relative;
+    width: 29rem;
+    color: black;
+    margin-top: 4rem;
+    margin-left: 1rem;
+}
+
+#footer1 ul{
+    position: relative;
+    margin-top: 6rem;
+    list-style: none;
+    text-decoration: none;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 29.5rem;
+    height: 2rem;
+}
+
+
+
+
+
+#poetry_block2{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: 59rem;
+    height: 21.4rem;
+
+    margin-top: 7rem;
+    margin-left: 20rem;
+    /* background-color: aqua; */
+}
+
+ #poetry_block2 #feedback2{
+    position: relative;
+    background-color: #e3d3c1;
+    width: 31rem;
+    margin-left: 0rem;
+    height: 21.4rem;
+    display: inline-block;
+    list-style: none;
+    text-decoration: none;
+}
+
+ #poetry_block2 #feedback2 p{
+    position: relative;
+    margin-left: 2.6rem;
+    margin-top: -2.3rem;
+}
+
+#container #poetry_block2 #feedback2 img{
+    position: relative;
+    margin-left: 0.3rem;
+}
+#container #poetry_block2 #feedback2 li i  {
+    position: relative;
+    float: right;
+    margin-top: -2rem;
+    margin-right: 19rem;
+}
+
+#container #poetry_block2 #feedback2 .highlight{
+    position: relative;
+    display: block;
+    /* background-color: darkgreen; */
+    width: 30rem;
+    height: 5rem;
+    
+}
+
+#feedback2 .highlight2 p{
+    position: relative;;
+}
+
+#footer2 hr{
+    position: relative;
+    width: 29rem;
+    color: black;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+#footer2 ul{
+    position: relative;
+    margin-top: 6rem;
+    list-style: none;
+    text-decoration: none;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 29.5rem;
+    height: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Start input-info */
+
+#container .input-info{
+  position: relative;
+  width: 500px;
+  height: 295px;
+  display: flex;
+  float: left;
+  flex-direction: column;
+  gap: 12px;
+  /* background-color: blue; */
+  margin-top: 15rem;
+  margin-left: 26rem;
+  padding-top: 3%;
+  align-items: center;
+  
+  
+}
+
+#container .input-info h2{
+  margin-bottom: 2%;
+  color:#aa8824;
+}
+
+#container .input-info input{
+  width: 350px;
+  height: 35px;
+}
+
+#container .input-info button{
+  width: 95px;
+  height: 42px;
+  background-color: #aa8824;
+  border: 2px solid #f1bd1f;
+  font-weight: 300;
+  color: white;
+  margin-top: 6px;
+}
+
+/* End input-info */
+
+/* start footer */
+#container .footer{
+position: relative;
+/* background-color: red; */
+width: 30rem;
+height: 15rem;
+
+}
+#container .footer{
+position: relative;
+display: flex;
+flex-direction: column;
+margin-top: 0.5rem;
+margin-left: 26.5rem;
+/* background-color: darkmagenta; */
+color: white;
+width: 30rem;
+height: 5rem;
+text-align: center;
+justify-content: center;
+/* color: black; */
+
+}
+
+#container .footer p{
+position: relative; 
+}
+
+#container .footer .copyright{
+position: relative;
+}
+
+/* End footer */

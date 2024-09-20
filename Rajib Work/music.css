@@ -1,0 +1,160 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+div.music_page{
+    position: relative;
+    background-color: #080413;
+    width: 95rem;
+    height: 104.2rem;
+}
+
+
+
+.nav-icons{
+  position: relative;
+  margin-top: 0;
+  padding-bottom: 3%;
+  /* background-color: aqua; */
+  width: 95rem;
+  height: 0.2rem;
+
+}
+
+.nav-icons .flex-container {
+display: flex;
+align-items: stretch;
+/* background-color: #f1f1f1; */
+}
+
+.nav-icons .flex-container > div {
+/* background-color: DodgerBlue; */
+color: #a88829;
+margin: 0;
+text-align: center;
+line-height: 40px;
+font-size: 20px;
+
+}
+
+.nav-icons .flex-container div.active{
+  background-color: greenyellow;
+}
+.nav-icons .flex-container div a:hover{
+content: "";
+background-color: white;
+}
+
+
+div.art_item{
+    /* border: 3px solid red; */
+    position: relative;
+    padding: 8rem 31rem;
+    width: 400px;
+    height: 300px;
+    justify-items: center;
+}
+
+div.art_item .image{
+    position: relative;
+    border: 5px solid white;
+    width: 98%;
+    height: 60%;
+    padding: 0;
+    margin-top: 4rem;
+    justify-content: start;
+}
+
+div.art_item .video{
+    position: relative;
+    border: 5px solid white;
+    width: 98%;
+    height: 35%;
+    padding: 0;
+    margin: 0;
+    justify-content: start;
+}
+
+div.item2{
+    width: 620px;
+    height: 435px;
+    position: relative;
+    margin: 9rem 25%;
+    border: 3px solid white;
+    
+
+}
+
+
+/* Start input-info */
+
+.music_page .input-info{
+    position: relative;
+    width: 500px;
+    height: 295px;
+    display: flex;
+    float: left;
+    flex-direction: column;
+    gap: 12px;
+    /* background-color: blue; */
+    margin-top: -2.5rem;
+    margin-left: 27.5rem;
+    padding-top: 3%;
+    align-items: center;
+    
+    
+  }
+  
+  .music_page .input-info h2{
+    margin-bottom: 2%;
+    color:#aa8824;
+  }
+  
+  .music_page .input-info input{
+    width: 350px;
+    height: 35px;
+  }
+  
+  .music_page .input-info button{
+    width: 95px;
+    height: 42px;
+    background-color: #aa8824;
+    border: 2px solid #f1bd1f;
+    font-weight: 300;
+    color: white;
+    margin-top: 6px;
+  }
+  
+  /* End input-info */
+
+  /* start footer */
+ 
+
+ .music_page .footer{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  margin-top: 27.9rem;
+  margin-left: 28rem;
+  /* background-color: darkmagenta; */
+  color: white;
+  width: 30rem;
+  height: 5rem;
+  text-align: center;
+  justify-content: center;
+  
+  
+}
+
+.music_page .footer p{
+  position: relative; 
+}
+
+.music_page .footer .copyright{
+  position: relative;
+}
+  
+  /* End footer */
+  
