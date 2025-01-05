@@ -18,7 +18,7 @@ words = ["oath","pea","eat","rain"]
 Output: ["eat","oath"]
 
 # Example 2
-![character board](/static/img/word_search_ii_example_1.png)
+![character board](/static/img/word_search_ii_example_2.png)
 
 Input: board = [["a","b"],["c","d"]], 
 words = ["abcb"]
