@@ -4,16 +4,19 @@ title:  "LeetCode Hard Problem: Word Search II"
 date:   2025-01-05 12:04:00 -0500
 ---
 ## Problem Statement
-Given an **m x n** __board__ of characters and a list of strings words, return all words on the board.
+Given an **m x n** _board_ of characters and a list of strings words, return all words on the board.
 
-Each word must be constructed from letters of sequentially adjacent cells, where **adjacent cells** are horizontally or vertically neighboring. The same letter cell may not be used more than once in a word.
+Each word must be constructed from letters of sequentially adjacent cells, where **adjacent cells** are horizontally or vertically neighboring. 
+The same letter cell may not be used more than once in a word.
 
 ## Examples
 # Example 1
 ![character board](/static/img/word_search_ii_example_1.png)
 
 **Input:** 
+
 board = [["o","a","a","n"],["e","t","a","e"],["i","h","k","r"],["i","f","l","v"]], 
+
 words = ["oath","pea","eat","rain"]
 
 **Output:** ["eat","oath"]
@@ -22,7 +25,9 @@ words = ["oath","pea","eat","rain"]
 ![character board](/static/img/word_search_ii_example_2.png)
 
 **Input:** 
+
 board = [["a","b"],["c","d"]], 
+
 words = ["abcb"]
 
 **Output:** []
@@ -120,7 +125,7 @@ class Solution:
 ```
 ## Complexity Analysis
 
-**Time Comlexity**
+# Time Comlexity
 
 **Brute Force Approach**
 
@@ -136,7 +141,7 @@ _For each word, traverse the board and return true if that word exist in the boa
 
 **Prefix Trie Approach**
 
-_Prefix Trie removes the need to search the complete board for each word again and again, instead we will build a prefix tree one time and search the board one time only and grab all the word which exist in the board_
+**Prefix Trie removes the need to search the complete board for each word again and again, instead we will build a prefix tree one time and search the board one time only and grab all the word which exist in the board**
 
  1. _Time to Add input words in Trie Data Structure_: For each word it will take O(logL), where L is the longest word length. So, for all input words, O(W * logL)
 
@@ -144,17 +149,30 @@ _Prefix Trie removes the need to search the complete board for each word again a
 
  3. _Traverse the complete board_: For worst case we need to traverse the full board if input has words which first characters are a complete set of board's character. So, for worst case we need to go _(complexity to traverse the full board)_ * _(complexity for one word search)_ = m * n * 4 * 3^(L-1)
 
- So, Overall complexity is
+    So, Overall complexity is
 
- = _(complexity to add word in trie)_ + _(complexity to traverse the full board)_ * _(complexity for one word search)_
+    = _(complexity to add word in trie)_ + _(complexity to traverse the full board)_ * _(complexity for one word search)_
 
- = O(W * logL) + O(m * n * 4 * 3^(L-1))
+    = O(W * logL) + O(m * n * 4 * 3^(L-1))
 
- = O(m * n * 4 * 3^(L-1))
+    = O(m * n * 4 * 3^(L-1))
 
-This is a huge improvement if we have large input of words need to search
+**This is a huge improvement if we have large input of words need to search**
 
-**Space Complexity**
+# Space Complexity
+
+**Brute Force Approach**
+
+    Overall space complexity is 
+
+    = _(visited set)_ + _(dfs call stack)_
+
+    = O(n) + O(logL)
+
+    = O(n)
+
+
+**Prefix Trie Approach**
 
  - Main comlexity in this problem is to build the prefix tree. It will have space complexity of all the characters from words input. In worst case, fully formed prefix tree can have 26 children and 26 branches as the input can be only english lowercase letters. O(26 * 26) ~ O(1)
 
@@ -162,13 +180,13 @@ This is a huge improvement if we have large input of words need to search
 
  - For dfs/backtracking, we will have call stack space in memory. It can be as long as length of the trie. O(logL)
 
- So, Overall space complexity is 
+    So, Overall space complexity is 
 
- = _(complexity to build prefix tree)_ + _(visited set)_ + _(dfs call stack)_
+    = _(complexity to build prefix tree)_ + _(visited set)_ + _(dfs call stack)_
 
- = O(1) + O(n) + O(logL)
+    = O(1) + O(n) + O(logL)
 
- = O(n)
+    = O(n)
 
 ## Areas To Optimize
 
