@@ -30,12 +30,19 @@ words = ["abcb"]
 # Constraints
 
 m == board.length 
+
 n == board[i].length
+
 1 <= m, n <= 12
+
 board[i][j] is a lowercase English letter.
+
 1 <= words.length <= 3 * 104
+
 1 <= words[i].length <= 10 
+
 words[i] consists of lowercase English letters.
+
 All the strings of words are unique.
 
 
@@ -111,11 +118,13 @@ class Solution:
         return list(result)
 
 ```
-# Complexity Analysis
+## Complexity Analysis
+
 **Time Comlexity**
 
-==Brute Force Approach==
-__For each word, traverse the board and return true if that word exist in the board_
+**Brute Force Approach**
+
+_For each word, traverse the board and return true if that word exist in the board_
 
  1. _Time for each DFS_: Traverse in four direction for each Depth First Search (dfs). In worst case, we need to traverse until the length of the word. So, one dfs will have 4*3^(L-1) where L is the length of a word
 
@@ -125,15 +134,15 @@ __For each word, traverse the board and return true if that word exist in the bo
  So, total complexity is _(number of word search)_ * _(complexity for one word search)_ 
  = O(W * m * n * 4 * 3^(L-1))
 
-==Prefix Trie Approach== 
+**Prefix Trie Approach**
 
-__Prefix Trie removes the need to search the complete board for each word again and again, instead we will build a prefix tree one time and search the board one time only and grab all the word which exist in the board__
+_Prefix Trie removes the need to search the complete board for each word again and again, instead we will build a prefix tree one time and search the board one time only and grab all the word which exist in the board_
 
  1. _Time to Add input words in Trie Data Structure_: For each word it will take O(logL), where L is the longest word length. So, for all input words, O(W * logL)
 
  2. _Time for each DFS_: Traverse in four direction for each Depth First Search (dfs). In worst case, we need to traverse until the length of the word. So, one dfs will have 4 * 3^(L-1) where L is the length of a word
 
- 3. _Traverse the complete board_: For worst case we need to traverse the full board if input has words which first characters are a complete set of board's character. So, for worst case we need to go _(complexity to traverse the full board) * _(complexity for one word search)_ = m * n * 4 * 3^(L-1)
+ 3. _Traverse the complete board_: For worst case we need to traverse the full board if input has words which first characters are a complete set of board's character. So, for worst case we need to go _(complexity to traverse the full board)_ * _(complexity for one word search)_ = m * n * 4 * 3^(L-1)
 
  So, Overall complexity is
 
@@ -145,7 +154,7 @@ __Prefix Trie removes the need to search the complete board for each word again 
 
 This is a huge improvement if we have large input of words need to search
 
-** Space Complexity **
+**Space Complexity**
 
  - Main comlexity in this problem is to build the prefix tree. It will have space complexity of all the characters from words input. In worst case, fully formed prefix tree can have 26 children and 26 branches as the input can be only english lowercase letters. O(26 * 26) ~ O(1)
 
@@ -155,13 +164,14 @@ This is a huge improvement if we have large input of words need to search
 
  So, Overall space complexity is 
 
- = _(complexity to build prefix tree)_ + _(visited set)_ + _(dfs call stack)
+ = _(complexity to build prefix tree)_ + _(visited set)_ + _(dfs call stack)_
 
  = O(1) + O(n) + O(logL)
 
  = O(n)
 
-# Areas To Optimize
+## Areas To Optimize
+
 - Input words can have duplicate items, in that case dfs algorithm will traverse same path multiple times.
 In that case, after we visited one word, we can remove that path from the prefix tree to avoid multiple traversing.
 
