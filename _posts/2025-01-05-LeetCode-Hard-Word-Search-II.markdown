@@ -163,13 +163,13 @@ _For each word, traverse the board and return true if that word exist in the boa
 
 **Brute Force Approach**
 
-    Overall space complexity is 
+Overall space complexity is 
 
-    = _(visited set)_ + _(dfs call stack)_
+= _(visited set)_ + _(dfs call stack)_
 
-    = O(n) + O(logL)
+= O(n) + O(logL)
 
-    = O(n)
+= O(n)
 
 
 **Prefix Trie Approach**
